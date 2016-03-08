@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I am version 3!
-=======
-I am version 2.5!
->>>>>>> 875d9bfb2ca3a5cf89ef8cd7aa836298e2828363
+I am version 4! :-)
